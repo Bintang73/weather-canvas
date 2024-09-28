@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "canvas": "^2.11.2",
+    "fs": "^0.0.1-security"
+  },
+  "name": "weather-canvas",
+  "version": "1.0.0",
+  "description": "weather canvas",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bintang73",
+  "license": "ISC"
+}
